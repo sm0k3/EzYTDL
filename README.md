@@ -9,6 +9,13 @@
     
     .Semi-Portable can run from anywhere on any system that allready has FFMPEG and youtube DL
      (might make it use a relative copy of Youtube-dl for portability if enough people want it)
+     
+## Screenshots
+
+![Entering URL and Output dir](https://i.imgur.com/hBebKjl.png "Entering URL and Output dir")
+
+![Video Download and Conversion Complete](https://i.imgur.com/G7XxVct.png "Video Download and Conversion Complete")
+
 ## Installation Instructions
 
 Easiest way to get started...

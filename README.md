@@ -8,7 +8,7 @@
     .Only relys on FFMPEG and Youtube DL
     
     .Semi-Portable can run from anywhere on any system that allready has FFMPEG and youtube DL
-      (in future i may mke it use a relative copy of FFMPEG and Youtube-dl for true portability if enough people want it)
+     (might make it use a relative copy of Youtube-dl for portability if enough people want it)
 ## Installation Instructions
 
 Easiest way to get started...

@@ -34,7 +34,7 @@
    </>
    <desc ></>
    <exefile >EzYTDL</>
-   <outdir >C:\Users\Theros\Documents\PerfectAutomation</>
+   <outdir >%userprofile%\Documents\PerfectAutomation</>
    <icofile ></>
    <state >show</>
    <author >Theros</>

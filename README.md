@@ -10,7 +10,7 @@
 Easiest way to get started...
 
 1. If you Dont allready have it install Chocolaty from here: [chocolaty](https://chocolatey.org/)
-  ps use the CMD method its easier :P
+  --Note: use the CMD method its easier :P
   
 2. Get a working copy of FFProbe(FFMPEG for video conversion) and Youtube-DL(Manages the Actual YT Download)
   open a command promt or powershell window (AS ADMINISTRATOR) you allready did this once in step one

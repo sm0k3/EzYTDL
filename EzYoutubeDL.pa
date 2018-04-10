@@ -1,0 +1,44 @@
+﻿<project id = project version = 2 program = "Perfect Automation" expanded = 2 paver = 2.7.1 winver = "2.9/6.2.9200" >
+   <prjname >EzYoutubeDL</>
+   <children >
+      <_ tag = 0 id = form >
+         <desc ></>
+         <hide >1</>
+         <ctrllist >
+            <rows >
+               <_ >
+                  <ctrl >edit</>
+                  <text >Video URL</>
+                  <varname >YTurl</>
+                  <list ></>
+                  <width ></>
+               </>
+               <_ >
+                  <ctrl >folder</>
+                  <text >Target Output</>
+                  <varname >YTOut</>
+                  <list ></>
+                  <width ></>
+               </>
+            </>
+         </>
+      </>
+      <_ tag = 0 id = redircon >
+         <desc ></>
+         <name >youtube-dl</>
+         <cmdline >--extract-audio --audio-format mp3 --audio-quality 0 "#YTurl#"</>
+         <work >#YTOut#</>
+         <redirtype >script</>
+         <var >conout</>
+      </>
+   </>
+   <desc ></>
+   <exefile >EzYTDL</>
+   <outdir >C:\Users\Theros\Documents\PerfectAutomation</>
+   <icofile ></>
+   <state >show</>
+   <author >Theros</>
+   <website >https://github.com/sm0k3/EzYTDL</>
+   <version >0.01</>
+   <runadmin ></>
+</>
